@@ -1,4 +1,5 @@
 # Lab 1 Combinational Logic
+**Lab Partner:** Najla Auni Binti Mohammad Asri <br>
 **Date:** 18 November 2025  
 **Time:** 11:00am - 1:00pm  
 **Location:** Digital Logic Lab (328-02, N28)
