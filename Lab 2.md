@@ -1,7 +1,8 @@
 # Lab 2 Combinational Digital Circuit Design Simulation
-**Lab Partner:** Najla Auni Binti Mohammad Asri
-
-**Date:** 8-22 December 2025
+**Lab Partner:** Najla Auni Binti Mohammad Asri <br>
+**Date:** 8-22 December 2025 <br>
+**Time:** 11:00am - 1:00pm  
+**Location:** Digital Logic Lab (328-02, N28)
 
 ---
 
